@@ -10,3 +10,4 @@ The files used for the pipeline demo are as follows:
   7. task-definition.json - Used by script.sh. Contains formatting necessary to make the new task definition machine readable
    
     
+    
