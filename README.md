@@ -8,3 +8,4 @@ The files used for the pipeline demo are as follows:
   5. package.json - Defines metadata and dependencies for Node.js application
   6. script.sh - Lists commands that enable Jenkins to update the task definition and service running in the Amazon ECS cluster
   7. task-definition.json - Used by script.sh. Contains formatting necessary to make the new task definition machine readable
+   
